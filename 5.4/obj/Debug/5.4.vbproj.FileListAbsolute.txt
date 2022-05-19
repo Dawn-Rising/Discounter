@@ -1,0 +1,25 @@
+N:\MyWork\Year 10\Computing\5.4\5.4\bin\Debug\5.4.exe.config
+N:\MyWork\Year 10\Computing\5.4\5.4\bin\Debug\5.4.exe
+N:\MyWork\Year 10\Computing\5.4\5.4\bin\Debug\5.4.pdb
+N:\MyWork\Year 10\Computing\5.4\5.4\bin\Debug\5.4.xml
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\5.4.vbprojResolveAssemblyReference.cache
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\_5._4.Resources.resources
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\5.4.vbproj.GenerateResource.Cache
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\5.4.exe
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\5.4.xml
+N:\MyWork\Year 10\Computing\5.4\5.4\obj\Debug\5.4.pdb
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\5.4\5.4\bin\Debug\5.4.exe.config
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\5.4\5.4\obj\Debug\5.4.exe
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\5.4\5.4\obj\Debug\5.4.xml
+\\dataserv\2014$\14DobinsonJ\MyWork\GCSE subjects\Computing\5.4\5.4\obj\Debug\5.4.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\bin\Debug\5.4.exe.config
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\bin\Debug\5.4.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\bin\Debug\5.4.pdb
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\bin\Debug\5.4.xml
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.vbproj.AssemblyReference.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\_5._4.Resources.resources
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.vbproj.GenerateResource.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.vbproj.CoreCompileInputs.cache
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.exe
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.xml
+C:\Users\Aurora\OneDrive - Calderdale College\github sort folder\Computing\Discont Generater\5.4\obj\Debug\5.4.pdb
